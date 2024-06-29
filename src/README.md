@@ -18,8 +18,16 @@
 - 수령자는 버튼을 클릭하기 전에, 미리 물건을 받아야 한다. 첫 위치 복귀 후, 다음 사용자를 위해 첫 화면(home)으로 바로 연결됨.
 - 다음 화면: moving
 
-![home_guide](https://github.com/ohmywans/SVE_graduation_project/assets/104372864/06262431-d127-46f4-a90b-f688a5152f0e)
+---
 
-![moving_guide](https://github.com/ohmywans/SVE_graduation_project/assets/104372864/877235b7-25b6-44f3-87e3-bdf01f4876d7)
+<p align="center">
+  <img src="https://github.com/ohmywans/SVE_graduation_project/assets/104372864/06262431-d127-46f4-a90b-f688a5152f0e">
+</p>
 
-![take_guide](https://github.com/ohmywans/SVE_graduation_project/assets/104372864/ed9e630a-63b7-4f41-8311-46774692d289)
+<p align="center">
+  <img src="https://github.com/ohmywans/SVE_graduation_project/assets/104372864/877235b7-25b6-44f3-87e3-bdf01f4876d7">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ohmywans/SVE_graduation_project/assets/104372864/ed9e630a-63b7-4f41-8311-46774692d289">
+</p>
