@@ -1,5 +1,6 @@
 ### Smart Vehicle Engineering Graduation Project
 - HMI team leader
+- $ roslaunch home home.launch
 
 ## UI
 ### 1. home
