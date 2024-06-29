@@ -1,9 +1,0 @@
-<launch>
-	<node name="home" pkg="home" type="home">
-	</node>
-	<node name="take" pkg="take" type="take">
-	</node>
-	<node name="qt_map_rviz_ros" pkg="qt_map_rviz_ros" type="qt_map_rviz_ros">
-	</node>
-	
-</launch>
